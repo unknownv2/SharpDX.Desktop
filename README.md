@@ -6,7 +6,9 @@ Updates the library to target .NET Core 3.0 instead of the .NET Framework. The o
 
 To build the library, run:
 
-```$ dotnet build```
+```
+$ dotnet build
+```
 
 The original library can be found here: https://github.com/sharpdx/SharpDX.
 
